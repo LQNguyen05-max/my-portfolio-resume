@@ -1,6 +1,6 @@
 # my-portfolio-resume
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&pause=1000&width=435&lines=Welcome+to+lakWinn's+Coding+Portfolio;YOOOOOO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&pause=1000&color=31F771&center=true&vCenter=true&width=435&lines=Welcome+to+lakWinn's+Coding+Portfolio)](https://git.io/typing-svg)
 
 # File Structure
 This repository contains an HTML file that serves as a personal resume webpage for Leo Nguyen.
