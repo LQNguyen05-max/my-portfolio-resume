@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&pause=1000&color=31F771&center=true&vCenter=true&width=435&lines=Welcome+to+lakWinn's+Coding+Portfolio)](https://git.io/typing-svg)
 
-#About Me:
+# About Me:
 I am a full-time student at the University of Texas at Dallas. I am familiar with HTML, CSS, JS, Java, C++, Python, Github, and am learning more! I am always motivated to learn new things and update my portfolio to perfection! 
 
 # File Structure
